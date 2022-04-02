@@ -4,7 +4,9 @@ RENCANA KONTEN
 * tokopedia
 * shopee
 * lazada
+  ^ sistem ulasan
 -saham dan crypto
 -membuat 50 akun fb
 -mengulas setiap hari
 -membuat youtube
+-copywriting
