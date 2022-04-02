@@ -1,6 +1,9 @@
 RENCANA KONTEN
 
 -membuat toko di berbagai market place
+* tokopedia
+* shopee
+* lazada
 -membuat 50 akun fb
 -mengulas setiap hari
 -membuat youtube
