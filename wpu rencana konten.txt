@@ -4,9 +4,10 @@ RENCANA KONTEN
 * tokopedia
 * shopee
 * lazada
-  ^ iklan
-  ^ modal
+  ^ sistem ulasan
+  ^ sistem pengiriman
 -saham dan crypto
  ^ analisis fundamental dan teknikal
 -membuat 50 akun fb
 -membuat youtube
+-copywriting
