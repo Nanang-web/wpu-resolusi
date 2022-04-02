@@ -5,6 +5,7 @@ RENCANA KONTEN
 * shopee
 * lazada
   ^ sistem ulasan
+  ^ sistem pengiriman
 -saham dan crypto
 -membuat 50 akun fb
 -mengulas setiap hari
