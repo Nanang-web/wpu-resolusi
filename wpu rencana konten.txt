@@ -4,6 +4,8 @@ RENCANA KONTEN
 * tokopedia
 * shopee
 * lazada
+* Bukalapak
+* Blibli
   ^ sistem ulasan
   ^ sistem pengiriman
 -saham dan crypto
@@ -11,3 +13,4 @@ RENCANA KONTEN
 -membuat 50 akun fb
 -membuat youtube
 -copywriting
+-mahir ads
